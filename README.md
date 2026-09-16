@@ -49,15 +49,13 @@
 <br />
 
 <!-- Estadísticas de GitHub -->
-<h2>📊 Estadísticas y Actividad</h2>
+<h2>📊 Estadísticas y Racha</h2>
 <div align="center">
-  <!-- Tarjeta 1: Trofeos de GitHub (Mucho más estable para perfiles nuevos/con poca actividad) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Mileguete&theme=tokyonight&no-bg=true&margin-w=15" alt="Trofeos de GitHub" height="150" />
-  
-  <br />
-  
-  <!-- Tarjeta 2: Racha de GitHub (La que sí funcionaba, mantenida) -->
+  <!-- Racha de GitHub (La que sí te funcionaba) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mileguete&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="165" />
+   <br /><br />
+  <!-- Contador de Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Mileguete&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitas al Perfil" />  
 </div>
 
 <br />
